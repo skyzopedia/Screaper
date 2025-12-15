@@ -1,6 +1,7 @@
 /* 
 
  Name: Convert Image To Ghibli Style
+ Author: Skyzopedia
  Contact: https://t.me/Xskycode
  Time: 16-12-2025
  
