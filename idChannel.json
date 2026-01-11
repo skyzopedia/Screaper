@@ -1,58 +1,58 @@
 [
   {
-    id: "120363303656790201@newsletter",
-    desc: "kyu"
+    "id": "120363303656790201@newsletter",
+    "desc": "kyu"
   },
   {
-    id: "120363423477373168@newsletter",
-    desc: "sky"
+    "id": "120363423477373168@newsletter",
+    "desc": "sky"
   },
   {
-    id: "120363421389457401@newsletter",
-    desc: "tdx"
+    "id": "120363421389457401@newsletter",
+    "desc": "tdx"
   },
   {
-    id: "120363422868707340@newsletter",
-    desc: "sky"
+    "id": "120363422868707340@newsletter",
+    "desc": "sky"
   },
   {
-    id: "120363424352406588@newsletter",
-    desc: "sky"
+    "id": "120363424352406588@newsletter",
+    "desc": "sky"
   },
   {
-    id: "120363405757209758@newsletter",
-    desc: ""
+    "id": "120363405757209758@newsletter",
+    "desc": ""
   },
   {
-    id: "120363421475424114@newsletter",
-    desc: ""
+    "id": "120363421475424114@newsletter",
+    "desc": ""
   },
   {
-    id: "120363394646996703@newsletter",
-    desc: ""
+    "id": "120363394646996703@newsletter",
+    "desc": ""
   },
   {
-    id: "120363405058907147@newsletter",
-    desc: ""
+    "id": "120363405058907147@newsletter",
+    "desc": ""
   },
   {
-    id: "120363305826981567@newsletter",
-    desc: ""
+    "id": "120363305826981567@newsletter",
+    "desc": ""
   },
   {
-    id: "120363311609903865@newsletter",
-    desc: ""
+    "id": "120363311609903865@newsletter",
+    "desc": ""
   },
   {
-    id: "120363417774601264@newsletter",
-    desc: ""
+    "id": "120363417774601264@newsletter",
+    "desc": ""
   },
   {
-    id: "120363419584291791@newsletter",
-    desc: ""
+    "id": "120363419584291791@newsletter",
+    "desc": ""
   },
   {
-    id: "120363406076563054@newsletter",
-    desc: ""
+    "id": "120363406076563054@newsletter",
+    "desc": ""
   }
 ]
